@@ -1,2 +1,2 @@
 # code
-#This project is my thesis dataset and related code
+#This project is my paper dataset and related code
